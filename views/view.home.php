@@ -1,4 +1,3 @@
-<?php?>
 <div id="home" style="margin-left: 50px; margin-top: 30px; border: 1px solid black; width: 800px; padding: 10px;">
     <h3>This is the Rishiworker Platform</h3>
     <p>This platform aims to leverage technology to help connect service providers to consumers</p>
