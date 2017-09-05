@@ -4,7 +4,7 @@
 	define('APP_NAME','RISHIWORKER');
 	define('APP_SLOGAN', 'Every gets to Work');
 	define('APP_ROOT',$_SERVER['DOCUMENT_ROOT'].'/mvps/rishiworker');
-	define('APP_URL','http://localhost:88/mvps/rishiworker/');
+	define('APP_URL','rishiworker.herokuapp.com');
 
 	define('MODELS', APP_ROOT.'/models/');
 	define('SCRIPTS',APP_ROOT.'/scripts/');
