@@ -14,7 +14,7 @@
 
 		//get the database connection
 		public function connect(){
-			$this->con = new PDO('mysql:host='.$this->host.';dbname='.$this->dbname.',$this->user,$this->pass);
+			$this->con = new PDO('mysql:host='.$this->host.';dbname='.$this->dbname,$this->user,$this->pass);
 			return $this->con;
 		}
 
