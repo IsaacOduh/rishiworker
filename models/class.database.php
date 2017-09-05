@@ -5,10 +5,10 @@
 	error_reporting(E_ALL);
 	class database 
 	{
-		private $host = "localhost";
-		private $user = "root";
-		private $pass = "";
-		private $dbname = "rishiworker";
+		private $host = "ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+		private $user = "seel57wx441nve7c";
+		private $pass = "jy9wxxb4kccmai6l";
+		private $dbname = "n2rypzl24bwfzkoz";
 		public $con; 
 
 		//get the database connection
